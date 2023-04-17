@@ -23,7 +23,7 @@ Remix IDE is an open source web and desktop application. It fosters a fast devel
 
 ```solidity
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.17; // Specifies the version of Solidity, using semantic versioning.
+pragma solidity >=0.8.2; // Specifies the version of Solidity, using semantic versioning.
 
 contract HelloWorld { // Defines a contract named `HelloWorld`
 
